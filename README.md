@@ -1,2 +1,15 @@
-# earthquake-prediction
-Earthquake prediction involves analyzing seismic time-series signals to identify precursory patterns that may indicate an upcoming seismic event. Traditional statistical models struggle with non-linearity, noise, and long-term dependencies, which motivated the use of a hybrid deep learning architecture.
+# Earthquake Prediction using CNN + LSTM
+
+Hybrid deep learning model using CNN for seismic feature extraction
+and LSTM for temporal dependency modeling.
+
+### Tech Stack
+- Python
+- TensorFlow / Keras
+- NumPy, Pandas
+- Scikit-learn
+
+### Evaluation
+- RMSE
+- MAE
+
